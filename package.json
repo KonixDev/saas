@@ -1,8 +1,7 @@
 {
   "name": "nextly-template",
   "version": "0.1.0",
-  "homepage": "https://konixdev.github.io/saas",
-  "description": "Nextly Landing Page Template",
+  "description": "SaaS company",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -19,7 +18,7 @@
     "tailwindcss",
     "free"
   ],
-  "author": "Surjith S M",
+  "author": "Martin Coll",
   "license": "ISC",
   "dependencies": {
     "@emotion/css": "^11.10.6",
